@@ -1,3 +1,8 @@
+![header](https://capsule-render.vercel.app/api?type=slice&color=ceddf2&height=300&section=header&text=taey2&fontSize=70&fontColor=4974a5)
+
+[![taey2's github stats](https://github-readme-stats.vercel.app/api?username=taey2&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+[![taey2's top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taey2&layout=compact&hide=Visual%20Basic&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 
  </hr/>
