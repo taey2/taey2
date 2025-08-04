@@ -1,8 +1,5 @@
 
- [![taey2's github stats](https://github-readme-stats.vercel.app/api?username=donggeonL&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-[![taey2's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=donggeonL&layout=compact&hide=Visual%20Basic&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
- 
  </hr/>
 <h1> Learning </h1>
 <span target="_blank"><img src="https://img.shields.io/badge/Spring boot-339933?style=flat-square&logo=springboot&logoColor=white"/>
