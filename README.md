@@ -1,16 +1,30 @@
-## Hi there 👋
 
-<!--
-**taey2/taey2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ [![taey2's github stats](https://github-readme-stats.vercel.app/api?username=donggeonL&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-Here are some ideas to get you started:
+[![taey2's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=donggeonL&layout=compact&hide=Visual%20Basic&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+ 
+ </hr/>
+<h1> Learning </h1>
+<span target="_blank"><img src="https://img.shields.io/badge/Spring boot-339933?style=flat-square&logo=springboot&logoColor=white"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a target="_blank"><img src="https://img.shields.io/badge/Java-339933?style=flat-square&logo=java&logoColor=white"/></a>
+
+<a target="_blank"><img src="https://img.shields.io/badge/Linux-339933?style=flat-square&logo=linux&logoColor=white"/></a>
+<a target="_blank"><img src="https://img.shields.io/badge/Docker-339933?style=flat-square&logo=docker&logoColor=white"/></a>
+<a target="_blank"><img src="https://img.shields.io/badge/AWS-339933?style=flat-square&logo=amazon&logoColor=white"/></a>
+
+<a target="_blank"><img src="https://img.shields.io/badge/OracleDB-339933?style=flat-square&logo=oracle&logoColor=white"/></a>
+<a target="_blank"><img src="https://img.shields.io/badge/MariaDB-339933?style=flat-square&logo=mariadb&logoColor=white"/></a>
+<a target="_blank"><img src="https://img.shields.io/badge/MYSQL-339933?style=flat-square&logo=MYSQL&logoColor=white"/></a>
+
+<a target="_blank"><img src="https://img.shields.io/badge/CSS-339933?style=flat-square&logo=css3&logoColor=white"/></a>
+<a target="_blank"><img src="https://img.shields.io/badge/HTML-339933?style=flat-square&logo=html5&logoColor=white"/></a>
+<a target="_blank"><img src="https://img.shields.io/badge/JavaScript-339933?style=flat-square&logo=javascript&logoColor=white"/></a>
+<a target="_blank"><img src="https://img.shields.io/badge/React-339933?style=flat-square&logo=react&logoColor=white"/></a>
+ <a target="_blank"><img src="https://img.shields.io/badge/Nexacro-339933?style=flat-square&logo=Nexacro&logoColor=white"/></a>
+
+
+<h1> About me </h1>
+
+
+<h1> My Project </h1>
