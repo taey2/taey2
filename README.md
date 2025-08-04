@@ -6,63 +6,27 @@
 
 
  </hr/>
-<h1 align="center">🌱 Learning</h1>
+<h2>📚 플랫폼 및 언어</h2>
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://github.com/user-attachments/assets/faca0001-9bec-449f-a4ba-7e4ec53eac14" width="80" style="border: 2px solid #e34c26; border-radius: 10px;" /><br />
-        <b>HTML5</b>
-      </td>
-      <td align="center">
-        <img src="https://github.com/user-attachments/assets/e40d1b81-750d-425e-ab4d-612e100f9476" width="80" style="border: 2px solid #264de4; border-radius: 10px;" /><br />
-        <b>CSS3</b>
-      </td>
-      <td align="center">
-        <img src="https://github.com/user-attachments/assets/bf4d1f4f-82f8-4a3f-af46-d2f0ebdce758" width="80" style="border: 2px solid #f7df1e; border-radius: 10px;" /><br />
-        <b>JavaScript</b>
-      </td>
-      <td align="center">
-        <img src="https://github.com/user-attachments/assets/24f51a89-8ad2-461b-84b9-cf776b49cbe3" width="80" style="border: 2px solid #0769ad; border-radius: 10px;" /><br />
-        <b>jQuery</b>
-      </td>
-      <td align="center">
-        <img src="https://github.com/user-attachments/assets/dc1b499f-7f3f-4581-838c-a15e9272c159" width="80" style="border: 2px solid #563d7c; border-radius: 10px;" /><br />
-        <b>Bootstrap</b>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://github.com/user-attachments/assets/3393e072-d0ce-4d77-a706-f9fdd6f698e0" width="80" style="border: 2px solid #00758f; border-radius: 10px;" /><br />
-        <b>MySQL</b>
-      </td>
-      <td align="center">
-        <img src="https://github.com/user-attachments/assets/5a9db40e-b313-4bdd-bfc8-2157442a2c08" width="80" style="border: 2px solid #6db33f; border-radius: 10px;" /><br />
-        <b>Spring</b>
-      </td>
-      <td align="center">
-        <img src="https://github.com/user-attachments/assets/2fc1bec0-84b2-4ed9-9b03-8da14aa86e46" width="80" style="border: 2px solid #f05032; border-radius: 10px;" /><br />
-        <b>Git</b>
-      </td>
-      <td align="center">
-        <img src="https://github.com/user-attachments/assets/49abd772-dd06-439d-8ab5-f9ba7c79ae59" width="80" style="border: 2px solid #000000; border-radius: 10px;" /><br />
-        <b>GitHub</b>
-      </td>
-      <td align="center">
-        <img src="https://github.com/user-attachments/assets/b611e393-d31c-490a-b786-e254f621c7fd" width="80" style="border: 2px solid #2c2255; border-radius: 10px;" /><br />
-        <b>Eclipse</b>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" colspan="5">
-        <img src="https://github.com/user-attachments/assets/cb9139e8-9ae4-415f-8a17-80c40c1f4dca" width="80" style="border: 2px solid #000000; border-radius: 10px;" /><br />
-        <b>IntelliJ</b>
-      </td>
-    </tr>
-  </table>
-</div>
+<p>
+  <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" alt="JavaScript">
+  <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white" alt="Spring">
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white" alt="Spring Boot">
+</p>
 
+<h2>🛠️ Tools</h2>
+
+<p>
+  <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap">
+  <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA">
+  <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white" alt="Notion">
+</p>
 
 <h1> About me </h1>
 
