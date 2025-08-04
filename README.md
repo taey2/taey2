@@ -50,7 +50,18 @@
         <b>GitHub</b>
       </td>
       <td align="center">
-        <img src="https://github.com/user-attachments/assets/b611e393-d31c-490a-b786-e254f621c7fd" width="80" style="border: 2px solid #2c2255; border-radius: 10px;"
+        <img src="https://github.com/user-attachments/assets/b611e393-d31c-490a-b786-e254f621c7fd" width="80" style="border: 2px solid #2c2255; border-radius: 10px;" /><br />
+        <b>Eclipse</b>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" colspan="5">
+        <img src="https://github.com/user-attachments/assets/cb9139e8-9ae4-415f-8a17-80c40c1f4dca" width="80" style="border: 2px solid #000000; border-radius: 10px;" /><br />
+        <b>IntelliJ</b>
+      </td>
+    </tr>
+  </table>
+</div>
 
 
 <h1> About me </h1>
